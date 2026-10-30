@@ -1,0 +1,9 @@
+kind,id,tier,domain,question,gold,answer,verbal_conf,mean_logprob,probe_p_wrong,probe_rank_pct
+souveraen_falsch_von_probe_markiert,q344,H,gen,Who wrote the novel 'Berlin Alexanderplatz'?,Alfred Doblin,Walter Isacson,95.0,-1.1671736240386963,0.9009272,100.0
+souveraen_falsch_von_probe_markiert,q365,H,fin,"Which Italian bank, founded in 1472, is often cited as the oldest bank still in operation?",Monte dei Paschi,Banco di San Giorgio Maggiore,95.0,-0.3828639090061188,0.83651865,98.75
+souveraen_falsch_von_probe_markiert,q374,H,fin,Which German payments company filed for insolvency in 2020 after a 1.9 billion euro accounting gap?,Wirecard,Commerzbank,100.0,-0.37386563420295715,0.8352531,97.5
+souveraen_falsch_von_probe_markiert,q267,H,gen,Which element has the atomic number 36?,krypton,Fluorine,100.0,-0.2576046586036682,0.829914,96.25
+souveraen_falsch_von_probe_markiert,q343,H,gen,Who wrote the novel 'Effi Briest'?,Theodor Fontane,Hermann Hesse,100.0,-0.4285086393356323,0.8092053,95.0
+souveraen_falsch_von_probe_uebersehen,q087,E,fin,What term describes a market in which prices are generally rising?,bull market,Inflation,100.0,-0.10862255841493607,0.3992901,68.75
+souveraen_falsch_von_probe_uebersehen,q226,M,fin,How many companies are in the German DAX index since September 2021?,40,30,100.0,-0.6397531032562256,0.4054663,70.0
+souveraen_falsch_von_probe_uebersehen,q387,H,fin,In which year was the Bank of Japan founded?,1882,1948,100.0,-0.16615115106105804,0.45028386,73.75

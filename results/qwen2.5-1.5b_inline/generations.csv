@@ -1,0 +1,400 @@
+id,tier,domain,question,aliases,answer,skipped,correct,mean_logprob,min_logprob,n_answer_tokens,verbal_raw,verbal_conf
+q000,E,gen,What is the capital of France?,Paris,Paris,False,True,-0.0017528659664094,-0.0017528659664094,1,100,100.0
+q001,E,gen,What is the capital of Japan?,Tokyo,Tokyo,False,True,-0.0009328501182608,-0.0017830915749073,2,100,100.0
+q002,E,gen,What is the chemical symbol for gold?,Au,Au,False,True,-0.2018694430589676,-0.2018694430589676,1,100,100.0
+q003,E,gen,How many continents are there on Earth?,7 ; seven,7,False,True,-0.2835892736911773,-0.2835892736911773,1,100,100.0
+q004,E,gen,Which planet is known as the Red Planet?,Mars,Mars,False,True,-0.0021879128180444,-0.0035115741193294,2,100,100.0
+q005,E,gen,Who wrote 'Romeo and Juliet'?,William Shakespeare ; Shakespeare,William Shakespeare,False,True,-0.0122748147696256,-0.0241900403052568,2,100,100.0
+q006,E,gen,What is the largest ocean on Earth?,Pacific Ocean ; Pacific,Atlantic Ocean,False,False,-0.1207917481660842,-0.2401071041822433,2,100,100.0
+q007,E,gen,What is the boiling point of water in degrees Celsius at sea level?,100,100°C,False,True,-0.0734179392457008,-0.2936339676380157,4,100,100.0
+q008,E,gen,What gas do plants absorb from the atmosphere for photosynthesis?,carbon dioxide ; CO2,Carbon dioxide,False,True,-0.2914406061172485,-0.5782173275947571,2,100,100.0
+q009,E,gen,Who painted the Mona Lisa?,Leonardo da Vinci ; da Vinci ; Leonardo,Leonardo da Vinci,False,True,-0.0064568659290671,-0.0234016217291355,4,100,100.0
+q010,E,gen,What is the largest planet in our solar system?,Jupiter,Jupiter,False,True,-0.1018463820219039,-0.1178175806999206,2,100,100.0
+q011,E,gen,In which country are the pyramids of Giza?,Egypt,Egypt,False,True,-0.0007568117580376,-0.0007568117580376,1,100,100.0
+q012,E,gen,What is the chemical formula of water?,H2O,H2O,False,True,-0.0233748629689216,-0.0700627192854881,3,100,100.0
+q013,E,gen,What is the capital of Italy?,Rome,Rome,False,True,-0.0013361424207687,-0.0015148365637287,2,100,100.0
+q014,E,gen,How many sides does a hexagon have?,6 ; six,6,False,True,-0.0755709931254386,-0.0755709931254386,1,100,100.0
+q015,E,gen,What is the square root of 144?,12 ; twelve,12,False,True,-5.722013156628236e-06,-1.1444026313256472e-05,2,100,100.0
+q016,E,gen,Which element has the atomic number 1?,hydrogen,Hydrogen,False,True,-0.0851522013545036,-0.2521796524524688,3,100,100.0
+q017,E,gen,What is the currency of the United Kingdom?,pound sterling ; pound ; GBP,Pound Sterling,False,True,-0.0846009254455566,-0.2016585171222686,3,100,100.0
+q018,E,gen,Who was the first person to walk on the Moon?,Neil Armstrong ; Armstrong,Neil Armstrong,False,True,-0.1372406035661697,-0.2707829177379608,2,100,100.0
+q019,E,gen,What is the longest river in South America?,Amazon,The Amazon River,False,True,-0.2352847009897232,-0.6333704590797424,3,100,100.0
+q020,E,gen,What is the capital of Germany?,Berlin,Berlin,False,True,-0.0016492111608386,-0.0016492111608386,1,100,100.0
+q021,E,gen,What language is primarily spoken in Brazil?,Portuguese,Portuguese,False,True,-0.0113107012584805,-0.032284140586853,3,100,100.0
+q022,E,gen,How many days are in a leap year?,366,366,False,True,-2.471515654178802e-05,-7.354942499659956e-05,3,100,100.0
+q023,E,gen,What is the hardest natural substance?,diamond,diamond,False,True,-0.2588793635368347,-0.2588793635368347,1,100,100.0
+q024,E,gen,Which animal is known as the King of the Jungle?,lion,Tiger,False,False,-0.2670160830020904,-0.5272051692008972,2,100,100.0
+q025,E,gen,Who developed the theory of relativity?,Albert Einstein ; Einstein,Albert Einstein,False,True,-0.018958318978548,-0.0373568683862686,2,100,100.0
+q026,E,gen,What is the capital of Spain?,Madrid,Madrid,False,True,-0.0086097288876771,-0.017218742519617,2,100,100.0
+q027,E,gen,What is the freezing point of water in degrees Fahrenheit?,32,32°F,False,True,-0.5544210076332092,-1.6632287502288818,3,100,100.0
+q028,E,gen,What is the smallest prime number?,2 ; two,2,False,True,-0.0125640779733657,-0.0125640779733657,1,100,100.0
+q029,E,gen,In which city is the Eiffel Tower located?,Paris,"Paris, France",False,True,-0.2317508608102798,-0.6943243741989136,3,100,100.0
+q030,E,gen,What is the capital of Canada?,Ottawa,Ottawa,False,True,-0.0086739500984549,-0.0239684656262397,3,100,100.0
+q031,E,gen,What is the capital of Australia?,Canberra,Canberra,False,True,-0.0017232354730367,-0.003102253889665,2,100,100.0
+q032,E,gen,How many legs does a spider have?,8 ; eight,8,False,True,-0.1496754139661789,-0.1496754139661789,1,100,100.0
+q033,E,gen,What is the main language spoken in Mexico?,Spanish,Spanish,False,True,-0.0007215518853627,-0.0007215518853627,1,100,100.0
+q034,E,gen,Which organ pumps blood through the human body?,heart,Heart,False,True,-0.5797269344329834,-0.5797269344329834,1,100,100.0
+q035,E,gen,What is the chemical symbol for sodium?,Na,Na,False,True,-0.0032690914813429,-0.0032690914813429,1,100,100.0
+q036,E,gen,Who composed the Fifth Symphony that begins with a famous four-note motif?,Ludwig van Beethoven ; Beethoven,Sergei Prokofiev,False,False,-0.1172077432274818,-0.4750263392925262,7,100,100.0
+q037,E,gen,What is the capital of Russia?,Moscow,Moscow,False,True,-0.0011099955299869,-0.00220258673653,2,100,100.0
+q038,E,gen,How many minutes are in an hour?,60 ; sixty,60,False,True,-4.4107264329795726e-06,-8.34461570775602e-06,2,100,100.0
+q039,E,gen,What is the largest mammal?,blue whale,Blue whale,False,True,-0.3080376386642456,-0.3567862808704376,2,100,100.0
+q040,E,gen,What is the capital of China?,Beijing ; Peking,Beijing,False,True,-0.0010191893670707,-0.0018730491865426,2,100,100.0
+q041,E,gen,Which planet is closest to the Sun?,Mercury,Mercury,False,True,-0.0002911452320404,-0.0005763299996033,2,100,100.0
+q042,E,gen,What is 7 multiplied by 8?,56,56,False,True,-7.152552825573366e-07,-1.311301275563892e-06,2,100,100.0
+q043,E,gen,What is the tallest mountain in the world above sea level?,Mount Everest ; Everest,Mount Everest,False,True,-0.0262793842703104,-0.0508106611669063,2,100,100.0
+q044,E,gen,What is the capital of Egypt?,Cairo,Cairo,False,True,-0.0009838201804086,-0.0019668058957904,2,100,100.0
+q045,E,gen,Who wrote 'Hamlet'?,William Shakespeare ; Shakespeare,William Shakespeare,False,True,-0.033771239221096,-0.0665223300457,2,100,100.0
+q046,E,gen,What colour do you get by mixing blue and yellow paint?,green,yellow,False,False,-0.6812253594398499,-0.6812253594398499,1,100,100.0
+q047,E,gen,What is the capital of the United States?,Washington DC ; Washington,Washington D.C.,False,True,-0.6262103319168091,-1.2753403186798096,4,100,100.0
+q048,E,gen,What is the largest country in the world by area?,Russia,Russia,False,True,-0.0049770986661314,-0.0049770986661314,1,100,100.0
+q049,E,gen,On which continent is Kenya located?,Africa,Africa,False,True,-0.0057607339695096,-0.0057607339695096,1,100,100.0
+q050,E,gen,What is the chemical symbol for iron?,Fe,Fe,False,True,-0.0297956597059965,-0.0297956597059965,1,100,100.0
+q051,E,gen,What instrument has 88 keys in its standard form?,piano,Piano,False,True,-0.1729739606380462,-0.3417150676250458,2,100,100.0
+q052,E,gen,What is the capital of Greece?,Athens,Athens,False,True,-0.0028033819980919,-0.0055631343275308,2,100,100.0
+q053,E,gen,Which gas makes up most of Earth's atmosphere?,nitrogen,Nitrogen,False,True,-0.0635513663291931,-0.1270536184310913,2,100,100.0
+q054,E,gen,What is the capital of the Netherlands?,Amsterdam,Amsterdam,False,True,-0.0071157240308821,-0.0120681142434477,2,100,100.0
+q055,E,gen,Who is the author of the Harry Potter books?,J K Rowling ; Rowling,J.K. Rowling,False,True,-0.0259652975946664,-0.101677119731903,4,100,100.0
+q056,E,gen,How many players does one team have on the field in a football (soccer) match?,11 ; eleven,11,False,True,-0.0012485310435295,-0.002494677901268,2,100,100.0
+q057,E,gen,What is the capital of India?,New Delhi ; Delhi,New Delhi,False,True,-0.0098717678338289,-0.0149449715390801,2,100,100.0
+q058,E,gen,Which country gave the Statue of Liberty to the United States?,France,France,False,True,-0.0017407278064638,-0.0017407278064638,1,100,100.0
+q059,E,gen,What is the capital of Portugal?,Lisbon,Lisbon,False,True,-0.0049132136628031,-0.01109513733536,3,100,100.0
+q060,E,gen,What is the primary ingredient in guacamole?,avocado,Avocado,False,True,-0.0956595465540885,-0.1293394863605499,2,100,100.0
+q061,E,gen,How many hours are in a day?,24,24,False,True,-6.79490312904818e-06,-9.417489309271332e-06,2,100,100.0
+q062,E,gen,What is the capital of Turkey?,Ankara,Ankara,False,True,-0.1417861729860305,-0.4247163832187652,3,100,100.0
+q063,E,gen,Who discovered penicillin?,Alexander Fleming ; Fleming,Alexander Fleming,False,True,-0.0563758686184883,-0.0882361754775047,2,100,100.0
+q064,E,gen,Which planet has the most prominent ring system?,Saturn,Jupiter,False,False,-0.0240404140204191,-0.0477622337639331,2,100,100.0
+q065,E,gen,What is the capital of Sweden?,Stockholm,Stockholm,False,True,-0.0071706161834299,-0.0140827009454369,2,100,100.0
+q066,E,gen,What is the capital of Norway?,Oslo,Oslo,False,True,-0.0005185984191484,-0.0010195539798587,2,100,100.0
+q067,E,gen,What is the capital of Poland?,Warsaw,Warsaw,False,True,-0.0342313311994075,-0.0665196552872657,2,100,100.0
+q068,E,gen,Which metal is liquid at room temperature?,mercury,Mercury,False,True,-0.011400993913412,-0.0227171145379543,2,100,100.0
+q069,E,gen,What is the capital of Austria?,Vienna,Vienna,False,True,-0.0019986084662377,-0.0039914948865771,2,100,100.0
+q070,E,gen,What is the name of the galaxy that contains our solar system?,Milky Way,Milky Way,False,True,-0.0420135408639907,-0.125122845172882,3,100,100.0
+q071,E,gen,What is 15 squared?,225,225,False,True,-1.1205498594790695e-05,-3.242440288886428e-05,3,100,100.0
+q072,E,gen,Which ocean lies between Africa and Australia?,Indian Ocean ; Indian,Indian Ocean,False,True,-0.0239968243986368,-0.0378360897302627,2,100,100.0
+q073,E,fin,What is the currency of Japan?,yen ; JPY,Japanese yen (JPY),False,True,-0.2354581207036972,-0.5777720808982849,6,100,100.0
+q074,E,fin,What is the official currency of Germany today?,euro ; EUR,Euro,False,True,-0.0047820722684264,-0.0047820722684264,1,100,100.0
+q075,E,fin,In which city is the European Central Bank headquartered?,Frankfurt,Frankfurt,False,True,-0.0079389214515686,-0.015780096873641,2,100,100.0
+q076,E,fin,What is the central bank of the United States commonly called?,Federal Reserve ; Fed,Federal Reserve System,False,True,-0.0697796121239662,-0.1683929860591888,3,100,100.0
+q077,E,fin,What is the currency of Switzerland?,Swiss franc ; franc ; CHF,Swiss Franc,False,True,-0.1574071496725082,-0.429881751537323,3,100,100.0
+q078,E,fin,In which city is the New York Stock Exchange located?,New York,New York City,False,True,-0.0128877265378832,-0.0284321326762437,3,100,100.0
+q079,E,fin,What does the abbreviation ATM stand for?,automated teller machine ; automatic teller machine,Automated Teller Machine,False,True,-0.0324740782380104,-0.1218607798218727,5,100,100.0
+q080,E,fin,What is the currency of the United States?,dollar ; USD,Dollar,False,True,-0.6309970617294312,-1.1192017793655396,2,100,100.0
+q081,E,fin,What is the name of the United Kingdom's central bank?,Bank of England,Bank of England,False,True,-0.0169885195791721,-0.0503559820353984,3,100,100.0
+q082,E,fin,What does IPO stand for in finance?,initial public offering,Initial Public Offering,False,True,-0.0055269296281039,-0.0099231740459799,3,100,100.0
+q083,E,fin,What is the currency of China?,renminbi ; yuan ; CNY,Chinese yuan,False,True,-0.6343235969543457,-0.7377445101737976,2,100,100.0
+q084,E,fin,What is the currency of India?,rupee ; INR,Indian Rupee,False,True,-0.0526487492024898,-0.1136196479201316,3,100,100.0
+q085,E,fin,In which country is the stock index DAX based?,Germany,Germany,False,True,-0.0001835654547903,-0.0001835654547903,1,100,100.0
+q086,E,fin,What does GDP stand for?,gross domestic product,Gross Domestic Product,False,True,-0.0088595831766724,-0.0329771265387535,4,100,100.0
+q087,E,fin,What term describes a market in which prices are generally rising?,bull market ; bull ; bullish,Inflation,False,False,-0.108622558414936,-0.2150992751121521,2,100,100.0
+q088,E,fin,What does VAT stand for in taxation?,value added tax,Value Added Tax,False,True,-0.0115774376317858,-0.0318358540534973,3,100,100.0
+q089,E,fin,What is the currency of Russia?,ruble ; rouble ; RUB,Ruble,False,True,-0.2960132360458374,-0.5901902914047241,2,100,100.0
+q090,E,fin,What does ECB stand for in European finance?,European Central Bank,European Central Bank,False,True,-0.0700465813279151,-0.1353167444467544,3,100,100.0
+q091,M,gen,What is the capital of Kazakhstan?,Astana ; Nur-Sultan,Almaty,False,False,-0.21914803981781,-0.6547442674636841,3,100,100.0
+q092,M,gen,In which year did the Berlin Wall fall?,1989,1989,False,True,-0.0002144262834917,-0.0008523407159373,4,100,100.0
+q093,M,gen,Who wrote 'One Hundred Years of Solitude'?,Gabriel Garcia Marquez ; Garcia Marquez ; Marquez,Gabriel García Márquez,False,True,-0.0290113091468811,-0.1612969189882278,6,100,100.0
+q094,M,gen,What is the chemical symbol for tungsten?,W,W,False,True,-0.0180886164307594,-0.0180886164307594,1,100,100.0
+q095,M,gen,Which element has the atomic number 79?,gold,Curium,False,False,-0.159696564078331,-0.2997498214244842,2,100,100.0
+q096,M,gen,In which year did the Titanic sink?,1912,1912,False,True,-5.066389690000506e-07,-2.0265558760002023e-06,4,100,100.0
+q097,M,gen,What is the capital of Mongolia?,Ulaanbaatar ; Ulan Bator,Ulaanbaatar,False,True,-0.0110503891482949,-0.0435915924608707,5,100,100.0
+q098,M,gen,Who painted 'The Starry Night'?,Vincent van Gogh ; van Gogh,Vincent van Gogh,False,True,-0.0036756955087184,-0.0111898016184568,5,100,100.0
+q099,M,gen,What is the longest bone in the human body?,femur,Femur,False,True,-0.3664804995059967,-0.8109062910079956,3,100,100.0
+q100,M,gen,In which year did World War I begin?,1914,1914,False,True,-5.066389690000506e-07,-2.0265558760002023e-06,4,100,100.0
+q101,M,gen,Who formulated the laws of planetary motion published in the early 17th century?,Johannes Kepler ; Kepler,Nicolaus Copernicus,False,False,-0.259339839220047,-1.0954804420471191,6,100,100.0
+q102,M,gen,What is the capital of New Zealand?,Wellington,Wellington,False,True,-0.0030134862754493,-0.0054955594241619,2,100,100.0
+q103,M,gen,What is the capital of South Korea?,Seoul,Seoul,False,True,-0.0005025481805205,-0.000928328547161,2,100,100.0
+q104,M,gen,Which physicist formulated the uncertainty principle?,Werner Heisenberg ; Heisenberg,Heisenberg,False,True,-0.0217095669358968,-0.0648552477359771,3,100,100.0
+q105,M,gen,Who wrote 'Pride and Prejudice'?,Jane Austen ; Austen,Jane Austen,False,True,-0.0040365047752857,-0.006159134209156,3,100,100.0
+q106,M,gen,What is the smallest country in the world by area?,Vatican City ; Vatican ; Holy See,Vatican City,False,True,-0.0207788292318582,-0.0590864531695842,3,100,100.0
+q107,M,gen,What is the capital of Argentina?,Buenos Aires,Buenos Aires,False,True,-0.1208072379231453,-0.4821168184280395,4,100,100.0
+q108,M,gen,Who was the first President of the United States?,George Washington ; Washington,George Washington,False,True,-0.0043833912350237,-0.0085101574659347,2,100,100.0
+q109,M,gen,In which year did the French Revolution begin?,1789,1789,False,True,-8.642663260616246e-07,-2.7418097943154862e-06,4,100,100.0
+q110,M,gen,"What is the largest desert in the world, excluding polar deserts?",Sahara,Antarctica,False,False,-0.5476763248443604,-1.3881605863571167,3,100,100.0
+q111,M,gen,What is the capital of Vietnam?,Hanoi,Hanoi,False,True,-0.011501538567245,-0.0212186761200428,2,100,100.0
+q112,M,gen,Who composed the opera 'The Magic Flute'?,Wolfgang Amadeus Mozart ; Mozart,Wolfgang Amadeus Mozart,False,True,-0.0273719578981399,-0.1075043529272079,7,100,100.0
+q113,M,gen,What is the most abundant element in the universe?,hydrogen,hydrogen,False,True,-0.1295176446437835,-0.2590249180793762,2,100,100.0
+q114,M,gen,What is the capital of Nigeria?,Abuja,Abuja,False,True,-0.0254797749221324,-0.0504548251628875,2,100,100.0
+q115,M,gen,Which philosopher wrote 'Critique of Pure Reason'?,Immanuel Kant ; Kant,Immanuel Kant,False,True,-0.0198158212006092,-0.0594138465821743,3,100,100.0
+q116,M,gen,What is the SI unit of electrical resistance?,ohm,ohm,False,True,-0.0959351733326911,-0.1815269440412521,2,100,100.0
+q117,M,gen,In which year did humans first land on the Moon?,1969,1969,False,True,-3.308036184535013e-06,-1.3112935448589267e-05,4,100,100.0
+q118,M,gen,What is the capital of Pakistan?,Islamabad,Islamabad,False,True,-0.0257174875587224,-0.0514330677688121,2,100,100.0
+q119,M,gen,Who wrote the novel '1984'?,George Orwell ; Orwell,George Orwell,False,True,-0.0142016531899571,-0.02144062705338,2,100,100.0
+q120,M,gen,What is the capital of Switzerland?,Bern ; Berne,Bern,False,True,-0.0166271887719631,-0.0166271887719631,1,100,100.0
+q121,M,gen,Which planet has the shortest day in the solar system?,Jupiter,Mercury,False,False,-0.0509021990001201,-0.1017732843756675,2,100,100.0
+q122,M,gen,What is the largest moon of Saturn?,Titan,Titan,False,True,-0.8305777907371521,-0.8305777907371521,1,100,100.0
+q123,M,gen,What is the capital of Morocco?,Rabat,Rabat,False,True,-0.0038622394204139,-0.0103490622714161,3,100,100.0
+q124,M,gen,Who discovered the electron in 1897?,J J Thomson ; Joseph John Thomson ; Thomson,J.J. Thomson,False,True,-0.1219732165336608,-0.3070412576198578,4,100,100.0
+q125,M,gen,What is the capital of Peru?,Lima,Lima,False,True,-0.0025941918138414,-0.0041044051758944,2,100,100.0
+q126,M,gen,What is the longest river in Europe?,Volga,Danube River,False,False,-0.4701418876647949,-1.2332210540771484,3,100,100.0
+q127,M,gen,Who wrote 'The Brothers Karamazov'?,Fyodor Dostoevsky ; Dostoevsky ; Dostoyevsky,Fyodor Dostoevsky,False,True,-0.013944961130619,-0.0489352047443389,8,100,100.0
+q128,M,gen,What is the capital of Chile?,Santiago,Santiago,False,True,-0.0043086409568786,-0.0085846194997429,2,100,100.0
+q129,M,gen,In which year did the Soviet Union dissolve?,1991,1991,False,True,-7.467349496437237e-05,-0.0002983363519888,4,100,100.0
+q130,M,gen,What is the chemical symbol for potassium?,K,K,False,True,-0.0061990600079298,-0.0061990600079298,1,100,100.0
+q131,M,gen,Whose 'Last Theorem' was proved by Andrew Wiles in the 1990s?,Pierre de Fermat ; Fermat,Wiles,False,False,-0.5331584215164185,-1.0626050233840942,2,100,100.0
+q132,M,gen,What is the capital of Ukraine?,Kyiv ; Kiev,Kyiv,False,True,-0.2886779308319092,-0.5773351192474365,2,100,100.0
+q133,M,gen,Who painted the ceiling of the Sistine Chapel?,Michelangelo,Michelangelo Buonarroti,False,True,-0.1206588447093963,-0.8776071071624756,8,100,100.0
+q134,M,gen,What is the largest internal organ in the human body?,liver,Liver,False,True,-0.0133046209812164,-0.0133046209812164,1,100,100.0
+q135,M,gen,What is the capital of Thailand?,Bangkok,Bangkok,False,True,-0.0277180466800928,-0.0554298944771289,2,100,100.0
+q136,M,gen,Who wrote 'Faust'?,Johann Wolfgang von Goethe ; Goethe,Goethe,False,True,-0.2925966680049896,-0.5841773748397827,2,100,100.0
+q137,M,gen,What is the capital of Hungary?,Budapest,Budapest,False,True,-0.0364051610231399,-0.0828120112419128,3,100,100.0
+q138,M,gen,What is the name of the deepest known point in the world's oceans?,Challenger Deep ; Mariana Trench,Mariana Trench,False,True,-0.020144211128354,-0.0771194621920585,5,100,100.0
+q139,M,gen,Who proposed the theory of evolution by natural selection together with Alfred Russel Wallace?,Charles Darwin ; Darwin,Charles Darwin,False,True,-0.0495178438723087,-0.0942517146468162,2,100,100.0
+q140,M,gen,What is the atomic number of carbon?,6 ; six,6,False,True,-0.0001463782973587,-0.0001463782973587,1,100,100.0
+q141,M,gen,What is the capital of Ireland?,Dublin,Dublin,False,True,-0.001031992258504,-0.0020145138259977,2,100,100.0
+q142,M,gen,What is the capital of Finland?,Helsinki,Helsinki,False,True,-0.0005681838956661,-0.000866514397785,2,100,100.0
+q143,M,gen,Who was the first Chancellor of the Federal Republic of Germany?,Konrad Adenauer ; Adenauer,Kurt Georg Kiesinger,False,False,-0.4179635941982269,-0.7988271713256836,6,100,100.0
+q144,M,gen,In which year did Germany reunify?,1990,1990,False,True,-0.0004269731289241,-0.0017021704697981,4,100,100.0
+q145,M,gen,What is the capital of Colombia?,Bogota,Bogotá,False,True,-0.1012220904231071,-0.2811753153800964,4,100,100.0
+q146,M,gen,Who discovered radium together with Pierre Curie?,Marie Curie ; Curie,Marie Curie,False,True,-0.0056371469981968,-0.0207735765725374,4,100,100.0
+q147,M,gen,What is the capital of Saudi Arabia?,Riyadh,Riyadh,False,True,-0.0663294643163681,-0.1793935149908065,3,100,100.0
+q148,M,gen,What is the capital of Iran?,Tehran ; Teheran,Tehran,False,True,-0.0005954591324552,-0.0015141224721446,3,100,100.0
+q149,M,gen,Who wrote 'The Divine Comedy'?,Dante Alighieri ; Dante,Dante Alighieri,False,True,-0.0067985607311129,-0.0235730241984128,5,100,100.0
+q150,M,gen,What is the largest coral reef system in the world?,Great Barrier Reef,Great Barrier Reef,False,True,-0.0283013060688972,-0.0842955112457275,3,100,100.0
+q151,M,gen,What is the capital of Kenya?,Nairobi,Nairobi,False,True,-0.0018787620356306,-0.0033412126358598,2,100,100.0
+q152,M,gen,How many bones are in the adult human body?,206,206,False,True,-1.4225413906387985e-05,-3.635817120084539e-05,3,100,100.0
+q153,M,gen,What is the capital of the Czech Republic?,Prague,Prague,False,True,-0.000479103764519,-0.0005534547381103,2,100,100.0
+q154,M,gen,Which composer wrote 'The Four Seasons'?,Antonio Vivaldi ; Vivaldi,Antonio Vivaldi,False,True,-0.1109563335776329,-0.5284753441810608,5,100,100.0
+q155,M,gen,What is the capital of Denmark?,Copenhagen,Copenhagen,False,True,-0.00683103967458,-0.0115595320239663,2,100,100.0
+q156,M,gen,Which element has the chemical symbol Pb?,lead,Lead,False,True,-0.1306369751691818,-0.1306369751691818,1,100,100.0
+q157,M,gen,Who wrote 'War and Peace'?,Leo Tolstoy ; Tolstoy,Leo Tolstoy,False,True,-0.0031290727201849,-0.0117241395637393,4,100,100.0
+q158,M,gen,What is the capital of Indonesia?,Jakarta ; Nusantara,Jakarta,False,True,-0.0047411546111106,-0.0089984368532896,2,100,100.0
+q159,M,gen,In which year did Christopher Columbus first reach the Americas?,1492,1492,False,True,-5.9007934396504425e-06,-2.3007127310847864e-05,4,100,100.0
+q160,M,gen,What is the capital of Venezuela?,Caracas,Caracas,False,True,-0.0012015078682452,-0.0021730875596404,2,100,100.0
+q161,M,gen,Who invented the World Wide Web?,Tim Berners-Lee ; Berners-Lee,Tim Berners-Lee,False,True,-0.0019400257151573,-0.0051176501438021,5,100,100.0
+q162,M,gen,What is the capital of Cuba?,Havana,Havana,False,True,-0.022257762029767,-0.0435858853161335,2,100,100.0
+q163,M,gen,What is the capital of the Philippines?,Manila,Manila,False,True,-0.0050617237575352,-0.0081435544416308,2,100,100.0
+q164,M,gen,Which physicist published the wave equation for quantum mechanics in 1926?,Erwin Schrodinger ; Schrodinger ; Schroedinger,Paul Dirac,False,False,-0.3023975789546966,-0.8731865882873535,3,100,100.0
+q165,M,gen,Who wrote 'Don Quixote'?,Miguel de Cervantes ; Cervantes,Cervantes,False,True,-0.169245958328247,-0.489948958158493,3,100,100.0
+q166,M,gen,What is the capital of Ethiopia?,Addis Ababa,Addis Ababa,False,True,-0.0051181269809603,-0.0143211660906672,4,100,100.0
+q167,M,gen,What is the largest lake in Africa by area?,Lake Victoria ; Victoria,Lake Victoria,False,True,-0.04549515619874,-0.0828456953167915,2,100,100.0
+q168,M,gen,What is the capital of Belgium?,Brussels,Brussels,False,True,-0.0140120293945074,-0.0212806463241577,2,100,100.0
+q169,M,gen,Which country has the most natural lakes?,Canada,Canada,False,True,-0.4099726378917694,-0.4099726378917694,1,100,100.0
+q170,M,gen,Who painted 'Guernica'?,Pablo Picasso ; Picasso,Pablo Picasso,False,True,-0.0388507843017578,-0.1063423082232475,3,100,100.0
+q171,M,gen,What is the capital of Iraq?,Baghdad,Baghdad,False,True,-0.0006906038033775,-0.0016839622985571,3,100,100.0
+q172,M,gen,In which year did the Chernobyl nuclear disaster occur?,1986,1986,False,True,-5.960463766996328e-08,-2.384185506798531e-07,4,100,100.0
+q173,M,gen,Who wrote 'On the Origin of Species'?,Charles Darwin ; Darwin,Charles Darwin,False,True,-0.0038159391842782,-0.0056672138161957,2,100,100.0
+q174,M,gen,What is the capital of Afghanistan?,Kabul,Kabul,False,True,-0.0021873735822737,-0.0046083675697445,3,100,100.0
+q175,M,gen,Who was the British Prime Minister for most of World War II?,Winston Churchill ; Churchill,Winston Churchill,False,True,-0.0192403905093669,-0.0534505434334278,3,100,100.0
+q176,M,gen,What is the name of the star closest to the Sun?,Proxima Centauri,Sun,False,False,-0.6623237133026123,-0.6623237133026123,1,100,100.0
+q177,M,gen,In which year was the Magna Carta sealed?,1215,1215,False,True,-2.711999741222826e-06,-9.65590606938349e-06,4,100,100.0
+q178,M,gen,What is the capital of Bangladesh?,Dhaka,Dhaka,False,True,-0.0032761730253696,-0.0081673208624124,3,100,100.0
+q179,M,gen,Which mathematician introduced the notation e for the base of the natural logarithm?,Leonhard Euler ; Euler,Leonhard Euler,False,True,-0.1283334344625473,-0.3454540371894836,3,100,100.0
+q180,M,gen,Which blood type is known as the universal donor?,O negative ; O neg,Type O positive,False,False,-0.4226555824279785,-0.8358383774757385,3,100,100.0
+q181,M,gen,What is the capital of Romania?,Bucharest,Bucharest,False,True,-0.0012759937671944,-0.0025009801611304,3,100,100.0
+q182,M,gen,What is the capital of Croatia?,Zagreb,Zagreb,False,True,-0.0034461840987205,-0.0087403822690248,3,100,100.0
+q183,M,gen,Who directed the 1960 film 'Psycho'?,Alfred Hitchcock ; Hitchcock,Alfred Hitchcock,False,True,-0.1275029182434082,-0.5006158351898193,4,100,100.0
+q184,M,gen,Who wrote the novel 'The Trial' (Der Process)?,Franz Kafka ; Kafka,Franz Kafka,False,True,-0.0418319515883922,-0.1249880939722061,3,100,100.0
+q185,M,gen,What is the chemical symbol for mercury?,Hg,Hg,False,True,-0.0005763294175267,-0.0010656398953869,2,100,100.0
+q186,M,gen,In which year did the Battle of Hastings take place?,1066,1066,False,True,-3.904077402694384e-06,-1.4662635294371285e-05,4,100,100.0
+q187,M,gen,Who proved Fermat's Last Theorem?,Andrew Wiles ; Wiles,Andrew Wiles,False,True,-0.0290622469037771,-0.0853811129927635,3,100,100.0
+q188,M,gen,What is the highest mountain in Africa?,Kilimanjaro,Kilimanjaro,False,True,-0.0268340110778808,-0.0686184838414192,5,100,100.0
+q189,M,gen,What is the longest river in Asia?,Yangtze ; Chang Jiang,Yangtze River,False,True,-0.0388736464083194,-0.1444734632968902,4,100,100.0
+q190,M,gen,What is the deepest lake in the world?,Lake Baikal ; Baikal,Lake Baikal,False,True,-0.1242431178689003,-0.3363809287548065,3,100,100.0
+q191,M,gen,Which strait separates Europe from Africa at Spain and Morocco?,Strait of Gibraltar ; Gibraltar,Strait of Gibraltar,False,True,-0.1855672150850296,-0.5556617975234985,3,100,100.0
+q192,M,gen,Who was the last Tsar of Russia?,Nicholas II,Nicholas II,False,True,-0.0416276305913925,-0.1209853217005729,3,100,100.0
+q193,M,gen,In which year did the Battle of Waterloo take place?,1815,1815,False,True,-2.2947697289055213e-06,-8.583032467868179e-06,4,100,100.0
+q194,M,gen,Which hormone is produced by the beta cells of the pancreas?,insulin,Insulin,False,True,-0.0215764828026294,-0.0431464090943336,2,100,100.0
+q195,M,gen,Which city hosted the 1936 Summer Olympics?,Berlin,Berlin,False,True,-0.1297687590122223,-0.1297687590122223,1,100,100.0
+q196,M,gen,In which country is the ancient city of Petra?,Jordan,Jordan,False,True,-0.3668750822544098,-0.3668750822544098,1,100,100.0
+q197,M,gen,In which country is Angkor Wat?,Cambodia,Cambodia,False,True,-0.0013166653225198,-0.0026292775291949,2,100,100.0
+q198,M,gen,Who composed the 'Goldberg Variations'?,Johann Sebastian Bach ; Bach,Johann Sebastian Bach,False,True,-0.0659128278493881,-0.2621817290782928,5,100,100.0
+q199,M,gen,Which Danish physicist proposed a model of the atom in 1913?,Niels Bohr ; Bohr,Niels Bohr,False,True,-0.0075076483190059,-0.0214244090020656,4,100,100.0
+q200,M,gen,What was the name of the first artificial satellite?,Sputnik,Sputnik 1,False,True,-0.0030810434836894,-0.0142613491043448,5,100,100.0
+q201,M,fin,In which year were euro banknotes and coins introduced?,2002,2002,False,True,-0.0053236386738717,-0.0206775963306427,4,100,100.0
+q202,M,fin,Who was the first President of the European Central Bank?,Wim Duisenberg ; Duisenberg,Walter Eucken,False,False,-1.1460423469543457,-2.4477479457855225,4,100,100.0
+q203,M,fin,In which year did Lehman Brothers file for bankruptcy?,2008,2008,False,True,-0.0002062514686258,-0.0007458527106791,4,100,100.0
+q204,M,fin,In which year was the US Federal Reserve System created?,1913,1913,False,True,-0.0003813553485088,-0.0013573489850386,4,100,100.0
+q205,M,fin,In which year was the Bank of England founded?,1694,1694,False,True,-1.52884404087672e-05,-2.706014311115723e-05,4,100,100.0
+q206,M,fin,What does the acronym SEPA stand for?,Single Euro Payments Area ; Single Euro Payment Area,Single Euro Payments Area,False,True,-0.0527089834213256,-0.1175835952162742,4,100,100.0
+q207,M,fin,In which Swiss city is the Bank for International Settlements headquartered?,Basel,Zurich,False,False,-0.037441000342369,-0.070432536303997,3,100,100.0
+q208,M,fin,What is the maximum length of an IBAN in characters?,34,34,False,True,-0.0421929582953453,-0.079978697001934,2,100,100.0
+q209,M,fin,How many characters long is a German IBAN?,22,34 characters long,False,False,-0.2468305230140686,-0.5213962197303772,4,100,100.0
+q210,M,fin,In which year was the Bretton Woods conference held?,1944,1944,False,True,-7.241886578412959e-06,-2.4676019165781327e-05,4,100,100.0
+q211,M,fin,In which US state is Bretton Woods located?,New Hampshire,New Hampshire,False,True,-0.0047392025589942,-0.0085696093738079,2,100,100.0
+q212,M,fin,Which US banking act of 1933 separated commercial and investment banking?,Glass-Steagall ; Banking Act of 1933,The Banking Act of 1933,False,True,-0.1973939388990402,-0.9934226274490356,9,100,100.0
+q213,M,fin,In which year was the Dodd-Frank Act signed into law?,2010,2010,False,True,-1.6808020518510602e-05,-6.246371776796877e-05,4,100,100.0
+q214,M,fin,"What is the minimum Liquidity Coverage Ratio required under Basel III, in percent?",100,100%,False,True,-0.0780230984091758,-0.2778331339359283,4,100,100.0
+q215,M,fin,"What is the minimum Common Equity Tier 1 capital ratio under Basel III, excluding buffers, in percent?",4.5,4%,False,False,-0.7011668086051941,-1.1402631998062134,2,100,100.0
+q216,M,fin,"What is the size of the Basel III capital conservation buffer, in percent of risk-weighted assets?",2.5,2.5%,False,True,-0.0640623569488525,-0.1868343949317932,4,100,100.0
+q217,M,fin,What does SWIFT stand for in international payments?,Society for Worldwide Interbank Financial Telecommunication,Society for Worldwide Interbank Financial Telecommunication,False,True,-0.0248862337321043,-0.0923360660672187,9,100,100.0
+q218,M,fin,What does LIBOR stand for?,London Interbank Offered Rate ; London Inter-bank Offered Rate,London Interbank Offered Rate,False,True,-0.0380227975547313,-0.1745975762605667,6,100,100.0
+q219,M,fin,Which euro overnight rate published by the ECB since 2019 replaced EONIA?,euro short-term rate ; €STR ; ESTR ; ESTER,EURIBOR,False,False,-0.0573036670684814,-0.1656326949596405,3,100,100.0
+q220,M,fin,What is the common short name of Germany's Federal Financial Supervisory Authority?,BaFin,BaFin,False,True,-0.0398005954921245,-0.0641822218894958,2,100,100.0
+q221,M,fin,In which city is the Deutsche Bundesbank headquartered?,Frankfurt,Berlin,False,False,-0.8716009855270386,-0.8716009855270386,1,100,100.0
+q222,M,fin,In which year was the Deutsche Bundesbank founded?,1957,1930,False,False,-0.1319604367017746,-0.2814787030220032,4,100,100.0
+q223,M,fin,Which ISO standard defines the XML-based financial messaging used for SEPA payments?,ISO 20022 ; 20022,ISO 15629-3,False,False,-0.6023887991905212,-2.0482516288757324,9,100,100.0
+q224,M,fin,Which ISO standard defines three-letter currency codes such as EUR and USD?,ISO 4217 ; 4217,ISO 4217,False,True,-0.0035664879251271,-0.0205626878887414,6,100,100.0
+q225,M,fin,"In which country were the first government-issued paper banknotes used, during the Song dynasty?",China,China,False,True,-0.0202120430767536,-0.0202120430767536,1,100,100.0
+q226,M,fin,How many companies are in the German DAX index since September 2021?,40 ; forty,30,False,False,-0.6397531032562256,-1.1654822826385498,2,100,100.0
+q227,M,fin,What is the highest credit rating on the S&P scale?,AAA,AAA,False,True,-0.004319860599935,-0.004319860599935,1,100,100.0
+q228,M,fin,Who wrote 'The Wealth of Nations'?,Adam Smith,Adam Smith,False,True,-0.0053634019568562,-0.0093836216256022,2,100,100.0
+q229,M,fin,"Which economist wrote 'The General Theory of Employment, Interest and Money'?",John Maynard Keynes ; Keynes,John Maynard Keynes,False,True,-0.0074956724420189,-0.019693911075592,4,100,100.0
+q230,M,fin,What is the abbreviation of the revised EU Payment Services Directive that introduced open-banking access rules?,PSD2 ; PSD 2,PSD2,False,True,-0.0178237836807966,-0.0518431141972541,3,100,100.0
+q231,M,fin,What does NPL stand for in banking?,non-performing loan ; nonperforming loan,Non-Performing Loan,False,True,-0.0385548844933509,-0.1785406917333603,5,100,100.0
+q232,M,fin,What is the currency of Vietnam?,dong ; VND,Vietnamese Dong,False,True,-0.4135278463363647,-0.966921329498291,3,100,100.0
+q233,M,fin,What is the currency of Malaysia?,ringgit ; MYR,Ringgit (MYR),False,True,-0.1034633219242096,-0.4689923226833343,6,100,100.0
+q234,M,fin,In which year did Iceland's three largest banks collapse?,2008,2008,False,True,-0.0003901717136614,-0.0013721107970923,4,100,100.0
+q235,M,fin,Who succeeded Mario Draghi as President of the ECB?,Christine Lagarde ; Lagarde,Jean-Claude Juncker,False,False,-0.2298825532197952,-0.7536711692810059,6,100,100.0
+q236,M,fin,What does CDS stand for in finance?,credit default swap,Credit Default Swap,False,True,-0.032250378280878,-0.0500078089535236,3,100,100.0
+q237,M,fin,Which option Greek measures sensitivity to the price of the underlying?,delta,Delta,False,True,-0.6420719623565674,-0.6420719623565674,1,100,100.0
+q238,M,fin,Which option Greek measures sensitivity to volatility?,vega,VIX Index,False,False,-0.8814384341239929,-1.1685198545455933,3,100,100.0
+q239,M,fin,Which option Greek measures the rate of change of delta with respect to the underlying price?,gamma,Vega,False,False,-0.6080065965652466,-0.9518832564353944,2,100,100.0
+q240,M,fin,What financial ratio is net income divided by shareholders' equity?,return on equity ; ROE,Return on Equity (ROE),False,True,-0.0511701963841915,-0.2173787951469421,7,100,100.0
+q241,M,fin,What is the ISO 4217 code for the Swiss franc?,CHF,CHF,False,True,-0.004295599181205,-0.0084270602092146,2,100,100.0
+q242,M,fin,What is the ISO 4217 code for the Japanese yen?,JPY,JPY,False,True,-0.015422323718667,-0.0300339944660663,2,100,100.0
+q243,M,fin,What does RWA stand for in banking regulation?,risk-weighted assets,Risk-weighted asset,False,True,-0.399005651473999,-0.6393625736236572,4,100,100.0
+q244,M,fin,What does EBA stand for in EU financial regulation?,European Banking Authority,European Banking Authority,False,True,-0.1706910729408264,-0.4869786202907562,3,100,100.0
+q245,H,gen,What is the capital of Burkina Faso?,Ouagadougou,Ouagadougou,False,True,-0.0130255371332168,-0.0386975072324276,6,100,100.0
+q246,H,gen,What is the capital of Bhutan?,Thimphu,Thimphu,False,True,-0.0033473363146185,-0.0065451771952211,4,100,100.0
+q247,H,gen,What is the capital of Eritrea?,Asmara,Asmara,False,True,-0.0304950382560491,-0.0903880968689918,3,100,100.0
+q248,H,gen,What is the capital of Kyrgyzstan?,Bishkek,Bishkek,False,True,-0.002006376395002,-0.0057454444468021,3,100,100.0
+q249,H,gen,What is the capital of Vanuatu?,Port Vila,Port Vila,False,True,-0.0374359227716922,-0.0763432085514068,3,100,100.0
+q250,H,gen,What is the capital of Suriname?,Paramaribo,Paramaribo,False,True,-0.0874904096126556,-0.2508625984191894,3,100,100.0
+q251,H,gen,What is the capital of Tajikistan?,Dushanbe,Dushanbe,False,True,-0.0036857277154922,-0.012346270494163,4,100,100.0
+q252,H,gen,What is the capital of Liechtenstein?,Vaduz,Vaduz,False,True,-0.013156889937818,-0.0370017252862453,3,100,100.0
+q253,H,gen,What is the capital of Malawi?,Lilongwe,Lilongwe,False,True,-0.0248520951718091,-0.0774692445993423,4,100,100.0
+q254,H,gen,What is the capital of Palau?,Ngerulmud,Ngerulmud,False,True,-0.0281176567077636,-0.0692784115672111,5,95,95.0
+q255,H,gen,What is the capital of Tuvalu?,Funafuti,Funafuti,False,True,-0.0069692977704107,-0.0198751837015151,3,100,100.0
+q256,H,gen,What is the capital of the Comoros?,Moroni,Moroni,False,True,-0.0416289418935775,-0.0812831073999404,2,100,100.0
+q257,H,gen,What is the capital of Lesotho?,Maseru,Maseru,False,True,-0.0324770137667655,-0.0875966250896453,3,100,100.0
+q258,H,gen,What is the capital of Turkmenistan?,Ashgabat ; Ashkhabad,Ashgabat,False,True,-0.004332872107625,-0.0126310586929321,4,100,100.0
+q259,H,gen,What is the capital of Moldova?,Chisinau,Chisinau,False,True,-0.0471833497285842,-0.1861138939857483,4,100,100.0
+q260,H,gen,What is the capital of Brunei?,Bandar Seri Begawan,Bandar Seri Begawan,False,True,-0.0057155103422701,-0.011704227887094,6,100,100.0
+q261,H,gen,What is the capital of Mauritania?,Nouakchott,Ouagadougou,False,False,-0.3312050998210907,-1.7265816926956177,6,100,100.0
+q262,H,gen,What is the capital of Gabon?,Libreville,Libreville,False,True,-0.0165557842701673,-0.0430955998599529,3,100,100.0
+q263,H,gen,What is the chemical symbol for antimony?,Sb,Sb,False,True,-0.0576035566627979,-0.1141450479626655,2,100,100.0
+q264,H,gen,Which element has the atomic number 74?,tungsten ; wolfram,Selenium,False,False,-0.3816066384315491,-0.6498405337333679,2,100,100.0
+q265,H,gen,What is the atomic number of uranium?,92,92,False,True,-6.007788761053234e-05,-0.0001199173566419,2,100,100.0
+q266,H,gen,Which element has the atomic number 50?,tin,Fluorine,False,False,-0.0493583977222442,-0.1673744469881057,4,100,100.0
+q267,H,gen,Which element has the atomic number 36?,krypton,Fluorine,False,False,-0.2576046586036682,-1.022876501083374,4,100,100.0
+q268,H,gen,What is the atomic number of silver?,47,47,False,True,-2.50339189733495e-06,-2.50339189733495e-06,2,100,100.0
+q269,H,gen,In which year was the Peace of Westphalia signed?,1648,1648,False,True,-4.172323428974778e-07,-1.1920922133867862e-06,4,100,100.0
+q270,H,gen,In which year did the Congress of Vienna conclude?,1815,1815,False,True,-0.0783204510807991,-0.3132684528827667,4,100,100.0
+q271,H,gen,Who wrote the novel 'The Master and Margarita'?,Mikhail Bulgakov ; Bulgakov,Dmitri Shostakovich,False,False,-0.3590010106563568,-1.1508179903030396,7,100,100.0
+q272,H,gen,Who wrote 'The Magic Mountain' (Der Zauberberg)?,Thomas Mann,Thomas Mann,False,True,-0.2212567925453186,-0.4401086866855621,2,100,100.0
+q273,H,gen,Who wrote the novel 'Buddenbrooks'?,Thomas Mann,Henry James,False,False,-0.7063585519790649,-1.3710734844207764,2,100,100.0
+q274,H,gen,Who composed the opera 'Wozzeck'?,Alban Berg,Richard Wagner,False,False,-0.4407773613929748,-0.6246716380119324,2,100,100.0
+q275,H,gen,Who composed 'The Rite of Spring'?,Igor Stravinsky ; Stravinsky,Igor Stravinsky,False,True,-0.018688004463911,-0.0475733317434787,5,100,100.0
+q276,H,gen,Who wrote the novel 'Pedro Paramo'?,Juan Rulfo ; Rulfo,Edmundo Paz Soldán,False,False,-1.0204098224639893,-2.506945848464966,6,95,95.0
+q277,H,gen,Who wrote 'The Tin Drum' (Die Blechtrommel)?,Gunter Grass ; Guenter Grass ; Grass,Hans Magnus Enzensberger,False,False,-0.4411325454711914,-2.0009660720825195,6,100,100.0
+q278,H,gen,Who painted 'The Garden of Earthly Delights'?,Hieronymus Bosch ; Bosch,Hieronymus Bosch,False,True,-0.1096128746867179,-0.3675691783428192,4,100,100.0
+q279,H,gen,Who painted 'The Ambassadors' (1533)?,Hans Holbein ; Holbein,Hieronymus Bosch,False,False,-0.1233465373516082,-0.4297443032264709,4,100,100.0
+q280,H,gen,Who sculpted 'The Burghers of Calais'?,Auguste Rodin ; Rodin,Edouard de Laboureur,False,False,-0.7509435415267944,-2.046370029449463,7,100,100.0
+q281,H,gen,Which mathematician published the incompleteness theorems in 1931?,Kurt Godel ; Godel ; Goedel,Gödel,False,True,-0.0814996883273124,-0.1309013962745666,3,100,100.0
+q282,H,gen,Who proved the Poincare conjecture?,Grigori Perelman ; Grigory Perelman ; Perelman,Grigori Perelman,False,True,-0.0291872508823871,-0.1295687556266784,5,100,100.0
+q283,H,gen,Who proved the prime number theorem in 1896 independently of Hadamard?,de la Vallee Poussin ; Vallee Poussin,G. H. Hardy,False,False,-0.4870555996894836,-1.994744181632996,5,100,100.0
+q284,H,gen,Who formulated the exclusion principle in quantum mechanics?,Wolfgang Pauli ; Pauli,Paul Dirac,False,False,-0.1580271124839782,-0.3967169523239136,3,100,100.0
+q285,H,gen,Which physicist predicted the positron through his relativistic equation for the electron?,Paul Dirac ; Dirac,Paul Dirac,False,True,-0.359419584274292,-1.03106951713562,3,100,100.0
+q286,H,gen,Who discovered the neutron in 1932?,James Chadwick ; Chadwick,James Chadwick,False,True,-0.0152567960321903,-0.0425858795642852,3,100,100.0
+q287,H,gen,Who first isolated elemental fluorine in 1886?,Henri Moissan ; Moissan,Marie Curie,False,False,-0.456270694732666,-1.521141529083252,4,100,100.0
+q288,H,gen,Who received the first Fields Medal in 1936 together with Jesse Douglas?,Lars Ahlfors ; Ahlfors,Carl Friedrich Gauss,False,False,-0.761407196521759,-1.517215371131897,3,100,100.0
+q289,H,gen,In which year did Alexander Grothendieck receive the Fields Medal?,1966,1966,False,True,-0.0291041005402803,-0.1163713410496711,4,100,100.0
+q290,H,gen,Which mathematician proved the Riemann hypothesis part of the Weil conjectures in 1974?,Pierre Deligne ; Deligne,Daniel Quillen,False,False,-0.3268746137619018,-1.0587538480758667,4,100,100.0
+q291,H,gen,What is the largest moon of Neptune?,Triton,Triton,False,True,-0.1808729320764541,-0.5090389251708984,3,100,100.0
+q292,H,gen,What is the name of the larger of Mars' two moons?,Phobos,Phobos,False,True,-0.0008026610594242,-0.0014368696138262,3,100,100.0
+q293,H,gen,What is the second-largest moon of Jupiter?,Callisto,Europa,False,False,-0.1178686469793319,-0.2354958057403564,2,100,100.0
+q294,H,gen,What is the highest mountain in South America?,Aconcagua,Aconcagua,False,True,-0.0088019492104649,-0.013626885600388,3,100,100.0
+q295,H,gen,What is the highest mountain in Germany?,Zugspitze,Schneefernerhorn,False,False,-0.4179027676582336,-0.639988899230957,5,100,100.0
+q296,H,gen,Which river flows through Baghdad?,Tigris,Tigris River,False,True,-0.0760054439306259,-0.2920709252357483,4,100,100.0
+q297,H,gen,Which river flows through Bratislava?,Danube ; Donau,Danube River,False,True,-0.7251546382904053,-1.5090761184692385,3,100,100.0
+q298,H,gen,What is the official language of Suriname?,Dutch,Dutch,False,True,-0.0577860921621322,-0.1120184436440467,2,100,100.0
+q299,H,gen,What is the largest island in the Mediterranean Sea?,Sicily,Sicily,False,True,-0.0328005515038967,-0.0952294617891311,3,100,100.0
+q300,H,gen,In which year did the Tunguska event occur?,1908,1908,False,True,-0.0027732111047953,-0.0110655454918742,4,100,100.0
+q301,H,gen,Which Roman emperor issued the Edict of Milan together with Licinius in 313?,Constantine,Constantine,False,True,-0.0065164612606167,-0.00993946287781,2,100,100.0
+q302,H,gen,Who was the first emperor of the Qin dynasty?,Qin Shi Huang ; Qin Shi Huangdi ; Ying Zheng ; Shi Huangdi,Chu Wang,False,False,-1.0483790636062622,-2.175936460494995,3,100,100.0
+q303,H,gen,Who wrote 'Leviathan' (1651)?,Thomas Hobbes ; Hobbes,Thomas Hobbes,False,True,-0.335424393415451,-1.002463459968567,3,100,100.0
+q304,H,gen,Who wrote 'Tractatus Logico-Philosophicus'?,Ludwig Wittgenstein ; Wittgenstein,Ludwig Wittgenstein,False,True,-0.1193012818694114,-0.4754254519939422,4,100,100.0
+q305,H,gen,Who wrote 'Being and Time' (Sein und Zeit)?,Martin Heidegger ; Heidegger,Martin Heidegger,False,True,-0.0155841605737805,-0.0611160360276699,4,100,100.0
+q306,H,gen,Who wrote 'The Phenomenology of Spirit'?,Hegel,Friedrich Nietzsche,False,False,-0.2144698053598404,-0.4962652921676636,4,100,100.0
+q307,H,gen,What is the smallest bone in the human body?,stapes ; stirrup,Earbud骨,False,False,-1.1455737352371216,-1.933240413665772,3,95,95.0
+q308,H,gen,What is the SI unit of magnetic flux?,weber,Weber,False,True,-0.2273531854152679,-0.4544576108455658,2,100,100.0
+q309,H,gen,What is the SI unit of inductance?,henry,henry,False,True,-0.1963506191968917,-0.3824343085289001,2,100,100.0
+q310,H,gen,What is the SI unit of luminous intensity?,candela,Candela,False,True,-0.2430005669593811,-0.7025272846221924,3,100,100.0
+q311,H,gen,What is the SI unit of catalytic activity?,katal,mole per second,False,False,-0.5007838606834412,-1.2583988904953003,4,100,100.0
+q312,H,gen,In which year were the first Nobel Prizes awarded?,1901,1895,False,False,-0.0405347906053066,-0.1269896775484085,4,100,100.0
+q313,H,gen,Who won the first Nobel Prize in Physics?,Wilhelm Rontgen ; Roentgen ; Rontgen,Wilhelm Conrad Röntgen,False,True,-0.0790038928389549,-0.4024226367473602,7,100,100.0
+q314,H,gen,Who won the Nobel Prize in Literature in 1912?,Gerhart Hauptmann ; Hauptmann,Svante Arvid Poesel,False,False,-0.94612455368042,-1.5876275300979614,8,100,100.0
+q315,H,gen,Who won the 2016 Nobel Prize in Literature?,Bob Dylan ; Dylan,São Paulo State University,False,False,-0.770918607711792,-1.4200328588485718,5,100,100.0
+q316,H,gen,Which city hosted the 1956 Summer Olympics?,Melbourne,Melbourne,False,True,-0.0287065021693706,-0.0573643669486045,2,100,100.0
+q317,H,gen,Which country won the first FIFA World Cup in 1930?,Uruguay,Uruguay,False,True,-0.1208867654204368,-0.2416643351316452,2,100,100.0
+q318,H,gen,Who directed the 1927 film 'Metropolis'?,Fritz Lang,Fritz Lang,False,True,-0.3165153861045837,-0.5652147531509399,3,100,100.0
+q319,H,gen,Who directed the 1979 film 'Stalker'?,Andrei Tarkovsky ; Tarkovsky,Andrei Tarkovsky,False,True,-0.0444087758660316,-0.1525682657957077,5,100,100.0
+q320,H,gen,What is the national animal of Scotland?,unicorn,Stag,False,False,-0.2463814914226532,-0.433376669883728,2,100,100.0
+q321,H,gen,In which modern country is the ancient city of Persepolis?,Iran,Iran,False,True,-0.0042239502072334,-0.0042239502072334,1,100,100.0
+q322,H,gen,In which modern country was the ancient city of Carthage?,Tunisia,modern Tunisia,False,True,-0.7685983180999756,-0.811812698841095,2,100,100.0
+q323,H,gen,In which modern country is the ancient city of Troy located?,Turkey ; Turkiye,Turkey,False,True,-0.0023010701406747,-0.0023010701406747,1,100,100.0
+q324,H,gen,Which German city is home to the Roman gate 'Porta Nigra'?,Trier,Trier,False,True,-0.8788633942604065,-0.8899461627006531,2,100,100.0
+q325,H,gen,Who composed the opera 'Der Freischutz'?,Carl Maria von Weber ; Weber,Carl Maria von Weber,False,True,-0.0816800370812416,-0.2402349859476089,4,100,100.0
+q326,H,gen,Who composed the opera 'Pelleas et Melisande'?,Claude Debussy ; Debussy,Modest Mussorgsky,False,False,-0.2411942481994629,-1.0905617475509644,5,100,100.0
+q327,H,gen,Which element was discovered in the solar spectrum before it was found on Earth?,helium,helium,False,True,-0.5456441044807434,-1.0912694931030271,2,100,100.0
+q328,H,gen,Which mathematician wrote 'Disquisitiones Arithmeticae'?,Carl Friedrich Gauss ; Gauss,Euler,False,False,-0.1514472216367721,-0.2093225270509719,2,100,100.0
+q329,H,gen,Who introduced the concept of schemes in algebraic geometry?,Alexander Grothendieck ; Grothendieck,Alexander Grothendieck,False,True,-0.0469010733067989,-0.279139906167984,6,100,100.0
+q330,H,gen,Who proved in 1837 that there are infinitely many primes in arithmetic progressions?,Dirichlet,Sophus Lie,False,False,-0.3042105734348297,-0.584621012210846,3,100,100.0
+q331,H,gen,Who proved the transcendence of pi in 1882?,Ferdinand von Lindemann ; Lindemann,Charles Hermite,False,False,-0.1537501364946365,-0.3060065507888794,3,100,100.0
+q332,H,gen,Who proved the transcendence of e in 1873?,Charles Hermite ; Hermite,Charles Hermite,False,True,-0.0183542016893625,-0.0326122306287288,3,100,100.0
+q333,H,gen,Who proved the four colour theorem in 1976 together with Wolfgang Haken?,Kenneth Appel ; Appel,Kurt Gödel,False,False,-0.3549133837223053,-1.3059487342834473,4,100,100.0
+q334,H,gen,In which year did the Space Shuttle Challenger disaster occur?,1986,1986,False,True,-0.0005633155233226,-0.0022509971167892,4,100,100.0
+q335,H,gen,Who was the first woman to fly in space?,Valentina Tereshkova ; Tereshkova,Sally Ride,False,False,-0.0676843747496604,-0.1616517305374145,3,100,100.0
+q336,H,gen,What was the name of the lander that made the first landing on a comet in 2014?,Philae,Rosetta,False,False,-0.2877759635448456,-0.5567826628684998,2,100,100.0
+q337,H,gen,What was the name of the ESA mission that carried that comet lander?,Rosetta,Rosetta,False,True,-0.0256117209792137,-0.0463200062513351,2,100,100.0
+q338,H,gen,In which year was the Peace of Augsburg concluded?,1555,1555,False,True,-6.4670571191527415e-06,-1.883488948806189e-05,4,100,100.0
+q339,H,gen,In which year was the Edict of Nantes issued?,1598,1598,False,True,-0.0127840489149093,-0.0496108494699001,4,100,100.0
+q340,H,gen,In which year did the Thirty Years' War begin?,1618,1618,False,True,-1.1920928244535389e-07,-2.384185506798531e-07,4,100,100.0
+q341,H,gen,Who was crowned emperor by Pope Leo III in the year 800?,Charlemagne ; Charles the Great ; Karl der Grosse,Charlemagne,False,True,-0.1491164863109588,-0.4459263980388641,3,100,100.0
+q342,H,gen,Who wrote the novel 'Simplicius Simplicissimus'?,Grimmelshausen,Johann Wolfgang von Goethe,False,False,-0.6480971574783325,-2.6271674633026123,7,100,100.0
+q343,H,gen,Who wrote the novel 'Effi Briest'?,Theodor Fontane ; Fontane,Hermann Hesse,False,False,-0.4285086393356323,-1.0727812051773071,4,100,100.0
+q344,H,gen,Who wrote the novel 'Berlin Alexanderplatz'?,Alfred Doblin ; Doblin ; Doeblin,Walter Isacson,False,False,-1.1671736240386963,-1.5598212480545044,5,95,95.0
+q345,H,gen,What is the capital of the German state of Saxony-Anhalt?,Magdeburg,Magdeburg,False,True,-0.0061123240739107,-0.0131963919848203,3,95,95.0
+q346,H,gen,What is the capital of the German state of Mecklenburg-Western Pomerania?,Schwerin,Schwerin,False,True,-0.3631023168563843,-0.8487433195114136,3,95,95.0
+q347,H,gen,What is the capital of the German state of Rhineland-Palatinate?,Mainz,Trier,False,False,-0.5599780678749084,-1.1050314903259275,2,100,100.0
+q348,H,gen,What is the capital of the German state of Lower Saxony?,Hanover ; Hannover,Hanover,False,True,-0.1747538596391677,-0.34340900182724,2,100,100.0
+q349,H,gen,What is the capital of the Australian state of Tasmania?,Hobart,Hobart,False,True,-0.0004727862833533,-0.0010344398906454,3,100,100.0
+q350,H,gen,What is the capital of the US state of Nevada?,Carson City,Carson City,False,True,-0.0182136427611112,-0.0475011467933654,3,100,100.0
+q351,H,gen,What is the capital of the US state of Vermont?,Montpelier,Montpelier,False,True,-0.2130361944437027,-0.6380886435508728,3,100,100.0
+q352,H,gen,What is the capital of the Canadian province of British Columbia?,Victoria,Victoria,False,True,-0.3240211904048919,-0.3240211904048919,1,100,100.0
+q353,H,gen,What is the capital of the US state of South Dakota?,Pierre,Pierre,False,True,-0.0066246520727872,-0.0086554130539298,2,100,100.0
+q354,H,fin,What is the currency of Bhutan?,ngultrum,Tsheringdong (NGN),False,False,-0.7591320276260376,-2.8143439292907715,8,95,95.0
+q355,H,fin,What is the currency of Kazakhstan?,tenge,Kazakhstani Tenge,False,True,-0.0541456528007984,-0.2728811204433441,7,100,100.0
+q356,H,fin,"What is the currency of Georgia, the country in the Caucasus?",lari,Lari,False,True,-0.2299641072750091,-0.3813126981258392,2,100,100.0
+q357,H,fin,What is the currency of Paraguay?,guarani,Guarani,False,True,-0.0614443309605121,-0.1170535236597061,3,100,100.0
+q358,H,fin,What is the currency of Angola?,kwanza,Kwanza,False,True,-0.0858012437820434,-0.2212492823600769,3,100,100.0
+q359,H,fin,What is the currency of Mongolia?,tugrik ; togrog ; tugrug,Mongolian Tögrög,False,True,-0.2910451292991638,-1.1618857383728027,7,95,95.0
+q360,H,fin,What is the currency of Botswana?,pula,Pula,False,True,-0.0556564517319202,-0.0892808809876442,2,100,100.0
+q361,H,fin,What is the currency of Armenia?,dram,Armenia uses the Armenian dram as its currency.,False,True,-0.1982725709676742,-0.970784306526184,11,100,100.0
+q362,H,fin,What is the currency of Laos?,kip,Lao kip,False,True,-0.2092199176549911,-0.41855588555336,4,100,100.0
+q363,H,fin,What is the currency of Guatemala?,quetzal,Guatemala Quetzal,False,True,-0.2300047427415847,-0.6938278675079346,5,100,100.0
+q364,H,fin,What is the currency of Ethiopia?,birr,Ethiopian Birr,False,True,-0.187840074300766,-0.4914508759975433,5,100,100.0
+q365,H,fin,"Which Italian bank, founded in 1472, is often cited as the oldest bank still in operation?",Monte dei Paschi,Banco di San Giorgio Maggiore,False,False,-0.3828639090061188,-1.3559446334838867,10,95,95.0
+q366,H,fin,In which year was the Basel Committee on Banking Supervision established?,1974,1974,False,True,-0.0018384649883955,-0.0038316657301038,4,100,100.0
+q367,H,fin,In which year was the first Basel Capital Accord (Basel I) published?,1988,1988,False,True,-9.00185332284309e-05,-0.0003374245716258,4,100,100.0
+q368,H,fin,In which year did the ECB begin direct supervision of banks under the Single Supervisory Mechanism?,2014,2014,False,True,-0.1524008363485336,-0.4069185554981231,4,100,100.0
+q369,H,fin,"In which year did Bankhaus Herstatt fail, giving its name to settlement risk?",1974,1974,False,True,-0.0631942823529243,-0.252312034368515,4,100,100.0
+q370,H,fin,In which German city was Bankhaus Herstatt based?,Cologne ; Koln ; Koeln,Milan,False,False,-0.7683715224266052,-1.5250494480133057,2,100,100.0
+q371,H,fin,Which British bank collapsed in 1995 due to unauthorised trading by Nick Leeson?,Barings,Barclays Bank,False,False,-0.1664232015609741,-0.3225001096725464,4,100,100.0
+q372,H,fin,Which French bank revealed large losses from trader Jerome Kerviel in 2008?,Societe Generale ; SocGen,BNP Paribas,False,False,-0.1744139939546585,-0.7302669882774353,5,100,100.0
+q373,H,fin,Which German lender was nationalised after the 2008 crisis involving its subsidiary Depfa?,Hypo Real Estate,Hypo Capital,False,False,-1.2390186786651611,-1.5912041664123535,4,95,95.0
+q374,H,fin,Which German payments company filed for insolvency in 2020 after a 1.9 billion euro accounting gap?,Wirecard,Commerzbank,False,False,-0.3738656342029571,-1.4392149448394775,4,100,100.0
+q375,H,fin,Which British bank experienced a bank run in September 2007?,Northern Rock,Barclays Bank,False,False,-0.4364328980445862,-0.9354681372642516,4,100,100.0
+q376,H,fin,Which US hedge fund collapsed in 1998 and was rescued in a bailout organised by the New York Fed?,Long-Term Capital Management ; LTCM,Long Term Capital Management,False,True,-0.1332627832889557,-0.2791379988193512,4,100,100.0
+q377,H,fin,In which year was the euro introduced as an accounting currency?,1999,2002,False,False,-0.0290985349565744,-0.1009484827518463,4,100,100.0
+q378,H,fin,Who was President of the Deutsche Bundesbank from 1993 to 1999?,Hans Tietmeyer ; Tietmeyer,Reinhard Buerkнер,False,False,-0.8918644189834595,-2.0747721195220947,7,100,100.0
+q379,H,fin,Who was the second President of the European Central Bank?,Jean-Claude Trichet ; Trichet,Walter Weisgerber,False,False,-0.9221470355987548,-2.612379789352417,6,95,95.0
+q380,H,fin,"What is the minimum leverage ratio under Basel III, in percent?",3 ; three,30%,False,False,-0.9566972851753236,-1.3677151203155518,3,100,100.0
+q381,H,fin,"What is the minimum total capital ratio under Basel III excluding buffers, in percent?",8 ; eight,8%,False,True,-0.585906445980072,-0.9664033651351928,2,100,100.0
+q382,H,fin,"What is the minimum Net Stable Funding Ratio under Basel III, in percent?",100,5%,False,False,-0.848487138748169,-1.2212650775909424,2,100,100.0
+q383,H,fin,What does MREL stand for in EU bank resolution?,minimum requirement for own funds and eligible liabilities,Minimum Requirements for Own Funds and Eligible Liabilities,False,True,-0.3430809378623962,-1.1448441743850708,10,95,95.0
+q384,H,fin,What is the acronym of the EU regulation on digital operational resilience for the financial sector?,DORA,DORA,False,True,-0.3676580786705017,-0.5305827260017395,2,100,100.0
+q385,H,fin,What is the common abbreviation of Germany's Banking Act (Kreditwesengesetz)?,KWG,KWG,False,True,-0.5863094329833984,-1.1694239377975464,2,100,100.0
+q386,H,fin,In which year did the MiFID II rules start to apply?,2018,2018,False,True,-0.0031492810230702,-0.0115562323480844,4,100,100.0
+q387,H,fin,In which year was the Bank of Japan founded?,1882,1948,False,False,-0.166151151061058,-0.3465570509433746,4,100,100.0
+q388,H,fin,In which year did the Swiss National Bank begin operations?,1907,1920,False,False,-0.6146541237831116,-1.4223874807357788,4,100,100.0
+q389,H,fin,Which country's central bank is called the Riksbank?,Sweden,Sweden,False,True,-0.0044842399656772,-0.0044842399656772,1,100,100.0
+q390,H,fin,Who shared the 1997 Nobel memorial prize in economics with Myron Scholes for option pricing work?,Robert Merton ; Robert C Merton ; Merton,Robert Merton,False,True,-0.8903352618217468,-1.806030869483948,3,100,100.0
+q391,H,fin,What is the name of the Eurosystem's real-time gross settlement system?,TARGET2 ; TARGET ; T2,TARGET2,False,True,-0.5426766276359558,-0.9491918087005616,2,100,100.0
+q392,H,fin,What is the name of the Eurosystem securities settlement platform launched in 2015?,TARGET2-Securities ; T2S,CHAPS,False,False,-0.3411979675292969,-0.6371069550514221,2,100,100.0
+q393,H,fin,What is the ISO 4217 currency code of the Polish zloty?,PLN,PLN,False,True,-0.006756471004337,-0.0119113372638821,2,100,100.0
+q394,H,fin,What is the ISO 4217 currency code of the South African rand?,ZAR,ZAR,False,True,-0.0100109707564115,-0.0194647926837205,2,100,100.0
+q395,H,fin,What does CRR stand for in EU banking regulation?,Capital Requirements Regulation,Centralized Resolution Mechanism,False,False,-0.5836253762245178,-1.2027528285980225,5,100,100.0
+q396,H,fin,What does IRB stand for in the Basel credit risk approaches?,internal ratings-based ; internal rating based ; internal ratings based,Internal Ratings-Based,False,True,-0.2012814283370971,-0.4569324553012848,3,100,100.0
+q397,H,fin,What does ICAAP stand for in banking supervision?,Internal Capital Adequacy Assessment Process,Internal Control Assessment and Audit Program,False,False,-0.6034881472587585,-1.2310997247695925,6,95,95.0
+q398,H,fin,In which city has the European Banking Authority been headquartered since 2019?,Paris,Lisbon,False,False,-0.4991448223590851,-1.3574720621109009,3,100,100.0

@@ -1,0 +1,9 @@
+kind,triviaqa_question_id,id,tier,domain,answer,verbal_conf,mean_logprob,probe_p_wrong,probe_rank_pct
+souveraen_falsch_von_probe_markiert,odql_450,tqa0108,?,triviaqa,The Sunderland Chair,100.0,-1.2391672134399414,0.8890614,100.0
+souveraen_falsch_von_probe_markiert,bt_1788,tqa0060,?,triviaqa,Matt Greene,100.0,-1.9778664112091064,0.85225207,98.75
+souveraen_falsch_von_probe_markiert,qw_14436,tqa0311,?,triviaqa,Adolphus Hailstork,100.0,-0.5303564667701721,0.83763534,97.5
+souveraen_falsch_von_probe_markiert,qg_2775,tqa0171,?,triviaqa,Jamie Oliver,100.0,-0.4519628882408142,0.8214642,96.25
+souveraen_falsch_von_probe_markiert,sfq_16187,tqa0064,?,triviaqa,John Galsworthy,100.0,-0.3875881135463714,0.8051053,95.0
+souveraen_falsch_von_probe_uebersehen,qw_15588,tqa0351,?,triviaqa,Norwegian,100.0,-0.2464442551136016,0.2599789,11.25
+souveraen_falsch_von_probe_uebersehen,qg_3996,tqa0074,?,triviaqa,Playboy,100.0,-0.5120983123779297,0.32726517,18.75
+souveraen_falsch_von_probe_uebersehen,odql_11091,tqa0264,?,triviaqa,Simferopol,100.0,-0.0911624953150749,0.3795929,22.5

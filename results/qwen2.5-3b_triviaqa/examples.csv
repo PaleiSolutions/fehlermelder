@@ -1,0 +1,9 @@
+kind,triviaqa_question_id,id,tier,domain,answer,verbal_conf,mean_logprob,probe_p_wrong,probe_rank_pct
+souveraen_falsch_von_probe_markiert,wh_154,tqa0553,?,triviaqa,Becky Forbes,85.0,-0.8894293904304504,0.7862646,97.0
+souveraen_falsch_von_probe_markiert,wh_4092,tqa0477,?,triviaqa,Horsemen,100.0,-0.5694427490234375,0.7710263,95.5
+souveraen_falsch_von_probe_markiert,jp_1522,tqa0647,?,triviaqa,Paul Anka,85.0,-0.8315234184265137,0.7701939,95.0
+souveraen_falsch_von_probe_markiert,qb_4368,tqa0087,?,triviaqa,Leggings,100.0,-0.25937420129776,0.76136667,94.5
+souveraen_falsch_von_probe_markiert,wh_1578,tqa0934,?,triviaqa,Roger Moore,100.0,-0.9672951102256776,0.75934505,93.5
+souveraen_falsch_von_probe_uebersehen,tc_3086,tqa0814,?,triviaqa,Aether,100.0,-0.0804947987198829,0.28601557,7.5
+souveraen_falsch_von_probe_uebersehen,qw_12302,tqa0751,?,triviaqa,The Wizard of Oz,100.0,-0.1425570100545883,0.38760623,20.0
+souveraen_falsch_von_probe_uebersehen,qw_15213,tqa0750,?,triviaqa,Britain,100.0,-0.2877967059612274,0.392761,21.5

@@ -1,0 +1,211 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "n_items": 399,
+  "accuracy": 0.786967418546366,
+  "accuracy_by_tier_domain": {
+    "E/fin": {
+      "acc": 0.9444444444444444,
+      "n": 18
+    },
+    "E/gen": {
+      "acc": 0.9315068493150684,
+      "n": 73
+    },
+    "H/fin": {
+      "acc": 0.5777777777777777,
+      "n": 45
+    },
+    "H/gen": {
+      "acc": 0.6605504587155964,
+      "n": 109
+    },
+    "M/fin": {
+      "acc": 0.7272727272727273,
+      "n": 44
+    },
+    "M/gen": {
+      "acc": 0.9,
+      "n": 110
+    }
+  },
+  "split": {
+    "train": 239,
+    "val": 80,
+    "test": 80,
+    "test_errors": 17,
+    "seed": 0,
+    "procedure": "stratified 60/20/20; layer+C chosen on val; refit train+val; test once"
+  },
+  "probe": {
+    "best_layer": 17,
+    "n_layers": 28,
+    "C": 0.001,
+    "val_auroc_best": 0.8898225957049486,
+    "val_auroc_by_layer": [
+      null,
+      0.549953314659197,
+      0.5648926237161531,
+      0.5406162464985994,
+      0.5480859010270775,
+      0.6003734827264239,
+      0.5919701213818861,
+      0.6414565826330533,
+      0.6797385620915033,
+      0.6965452847805789,
+      0.7581699346405228,
+      0.7843137254901961,
+      0.7955182072829132,
+      0.8608776844070962,
+      0.858076563958917,
+      0.8608776844070962,
+      0.8720821661998133,
+      0.8898225957049486,
+      0.8590102707749767,
+      0.8655462184873949,
+      0.8253968253968254,
+      0.800186741363212,
+      0.8011204481792717,
+      0.8141923436041084,
+      0.7777777777777778,
+      0.7684407096171803,
+      0.7563025210084033,
+      0.7591036414565826,
+      0.7488328664799253
+    ]
+  },
+  "test_auroc": {
+    "probe": 0.9561157796451915,
+    "verbal": 0.5429505135387488,
+    "logprob_mean": 0.9243697478991596,
+    "logprob_min": 0.9290382819794585
+  },
+  "test_auroc_ci95": {
+    "probe": [
+      0.9104115425228173,
+      0.988795518207283
+    ],
+    "verbal": [
+      0.475,
+      0.6316228070175436
+    ],
+    "logprob_mean": [
+      0.861532131661442,
+      0.974793208819578
+    ],
+    "logprob_min": [
+      0.8623046875,
+      0.9784631185807656
+    ]
+  },
+  "paired_bootstrap": {
+    "probe_minus_verbal": {
+      "mean": 0.4140771006126955,
+      "ci95": [
+        0.32937541172595514,
+        0.48826336927816893
+      ],
+      "p_boot_le_0": 0.0
+    },
+    "probe_minus_logprob_mean": {
+      "mean": 0.031976672342241996,
+      "ci95": [
+        -0.024114829457727013,
+        0.09523946203050679
+      ],
+      "p_boot_le_0": 0.138
+    },
+    "probe_minus_logprob_min": {
+      "mean": 0.026955465484322524,
+      "ci95": [
+        -0.01953580029121864,
+        0.08301595052083328
+      ],
+      "p_boot_le_0": 0.142
+    }
+  },
+  "escalation_errors_caught_test": {
+    "at_10pct": {
+      "probe": 0.47058823529411764,
+      "verbal": 0.17647058823529413,
+      "logprob_mean": 0.35294117647058826,
+      "logprob_min": 0.4117647058823529
+    },
+    "at_20pct": {
+      "probe": 0.6470588235294118,
+      "verbal": 0.17647058823529413,
+      "logprob_mean": 0.6470588235294118,
+      "logprob_min": 0.7058823529411765
+    },
+    "at_30pct": {
+      "probe": 0.8823529411764706,
+      "verbal": 0.29411764705882354,
+      "logprob_mean": 0.8235294117647058,
+      "logprob_min": 0.8235294117647058
+    }
+  },
+  "robustness_repeated_splits": {
+    "n_repeats": 20,
+    "test_auroc": {
+      "probe": {
+        "mean": 0.9160130718954249,
+        "sd": 0.0465805251198624
+      },
+      "verbal": {
+        "mean": 0.5266806722689076,
+        "sd": 0.02803301319838832
+      },
+      "logprob_mean": {
+        "mean": 0.9014472455648926,
+        "sd": 0.030907447468498606
+      },
+      "logprob_min": {
+        "mean": 0.9121381886087768,
+        "sd": 0.030222024048452714
+      }
+    },
+    "win_rate": {
+      "probe_beats_verbal": 1.0,
+      "probe_beats_logprob_mean": 0.7,
+      "probe_beats_logprob_min": 0.65
+    },
+    "chosen_layers": [
+      19,
+      17,
+      19,
+      17,
+      18,
+      18,
+      14,
+      13,
+      17,
+      17,
+      19,
+      18,
+      18,
+      15,
+      11,
+      19,
+      19,
+      18,
+      19,
+      17
+    ],
+    "errors_caught_at_20pct_mean": {
+      "probe": 0.676470588235294,
+      "verbal": 0.22058823529411767,
+      "logprob_mean": 0.6294117647058822,
+      "logprob_min": 0.6529411764705882
+    }
+  },
+  "verbal_confidence": {
+    "parse_rate": 1.0,
+    "share_ge_90": 1.0,
+    "n_distinct_values": 2
+  },
+  "notes": [
+    "Target: y=1 means the model's answer is WRONG; AUROC = error detection.",
+    "Baselines are untrained scores, evaluated on the identical test items.",
+    "Ties in rankings broken at random (escalation), not in favour of any method.",
+    "Results are specific to this model, prompt and question distribution."
+  ]
+}

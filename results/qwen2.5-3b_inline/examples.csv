@@ -1,0 +1,9 @@
+kind,id,tier,domain,question,gold,answer,verbal_conf,mean_logprob,probe_p_wrong,probe_rank_pct
+souveraen_falsch_von_probe_markiert,q264,H,gen,Which element has the atomic number 74?,tungsten,Tc,100.0,-0.7508358955383301,0.9999356,98.75
+souveraen_falsch_von_probe_markiert,q384,H,fin,What is the acronym of the EU regulation on digital operational resilience for the financial sector?,DORA,MiFIR,100.0,-0.6514223217964172,0.9959103,97.5
+souveraen_falsch_von_probe_markiert,q313,H,gen,Who won the first Nobel Prize in Physics?,Wilhelm Rontgen,Albert Einstein,100.0,-1.0888675451278687,0.9884532,96.25
+souveraen_falsch_von_probe_markiert,q237,M,fin,Which option Greek measures sensitivity to the price of the underlying?,delta,Gamma,100.0,-0.7228714227676392,0.8735749,93.75
+souveraen_falsch_von_probe_markiert,q378,H,fin,Who was President of the Deutsche Bundesbank from 1993 to 1999?,Hans Tietmeyer,Otmar Issing,100.0,-0.2757473886013031,0.7692877,90.0
+souveraen_falsch_von_probe_uebersehen,q381,H,fin,"What is the minimum total capital ratio under Basel III excluding buffers, in percent?",8,4.5%,100.0,-0.2146153599023819,0.0027433254,56.25
+souveraen_falsch_von_probe_uebersehen,q126,M,gen,What is the longest river in Europe?,Volga,Danube,100.0,-0.010585525073111057,0.032288145,72.5
+souveraen_falsch_von_probe_uebersehen,q180,M,gen,Which blood type is known as the universal donor?,O negative,O,100.0,-0.002647468587383628,0.04923334,73.75
