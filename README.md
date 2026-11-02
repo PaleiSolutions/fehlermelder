@@ -2,7 +2,7 @@
 
 Sagen die inneren Aktivierungen eines offenen Sprachmodells vorher, ob seine gerade gegebene Antwort **falsch** ist – und zwar besser als (a) die Selbstauskunft des Modells („Wie sicher bist du, 0–100?“) und (b) die Wahrscheinlichkeit seiner eigenen Wörter?
 
-Kleines Experiment mit zwei kleinen Modellen (Qwen2.5-1.5B und -3B-Instruct) zum Essay **[„Die KI ahnt ihre Fehler – sie sagt es nur nicht“](ESSAY-URL)**. Begleitmaterial zum Text, kein Benchmark, kein Produktionscode, nicht gewartet.
+Kleines Experiment mit zwei kleinen Modellen (Qwen2.5-1.5B und -3B-Instruct) zum Essay **[„Die Statistik der Lüge“](https://www.linkedin.com/pulse/die-statistik-der-l%C3%BCge-alexander-hertsch-mtrkf)**. Begleitmaterial zum Text, kein Benchmark, kein Produktionscode, nicht gewartet.
 
 Versuchsdesign und Prüfkriterien: Alexander Hertsch. Implementierung und Auswertung: KI-gestützt.
 
